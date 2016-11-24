@@ -10,7 +10,7 @@ Converts bits to bytes<br>
 @return Returns the number of bytes<br><br>
 
 <b>bitsToKilobits</b>(bits) -><br>
-Converts bits to kilobits<br>    
+Converts bits to kilobits<br>
 @param bits: The number of bits<br>
 @return Returns the number of kilobits<br><br>
 

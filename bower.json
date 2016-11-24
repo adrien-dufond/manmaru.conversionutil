@@ -1,0 +1,15 @@
+{
+  "name": "manmaru.conversionutil",
+  "main": "manmaru.conversionutil.js",
+  "authors": [
+    "Adrien Dufond <adrien.dufond@gmail.com>"
+  ],
+  "description": "javascript utilities for conversion manipulating",
+  "keywords": [
+    "number",
+    "conversion",
+    "manmaru"
+  ],
+  "license": "MIT",
+  "homepage": "www.manmaru.fr"
+}

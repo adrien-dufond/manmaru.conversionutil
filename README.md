@@ -15,7 +15,7 @@ Converts bits to kilobits<br>
 @return Returns the number of kilobits<br><br>
 
 <b>bitsToKilobytes</b>(bits) -><br>
-Converts bits to kilobytes<br> 
+Converts bits to kilobytes<br>
 @param bits: The number of bits<br>
 @return Returns the number of kilobits<br><br>
 
@@ -60,7 +60,7 @@ Converts kilobytes to bytes<br>
 @return Returns the number of bytes<br><br>
             
 <b>kilobytesToKilobits</b>(kilobytes) -><br>
-Converts kilobytes to kilobits<br>             
+Converts kilobytes to kilobits<br>
 @param kilobytes: The number of kilobytes<br>
 @return Returns the number of kilobits<br><br>
             
@@ -85,7 +85,7 @@ Converts milliseconds to days<br>
 @return Returns the number of days<br><br>
             
 <b>secondsToMilliseconds</b>(seconds) -><br>
-Converts seconds to milliseconds<br>     
+Converts seconds to milliseconds<br>
 @param seconds: The number of seconds<br>
 @return Returns the number of milliseconds<br><br>
             
@@ -105,7 +105,7 @@ Converts seconds to days<br>
 @return Returns the number of days<br><br>
             
 <b>minutesToMilliseconds</b>(minutes) -><br>
-Converts minutes to milliseconds<br>     
+Converts minutes to milliseconds<br>
 @param minutes: The number of minutes<br>
 @return Returns the number of milliseconds<br><br>
             
@@ -125,17 +125,17 @@ Converts minutes to days<br>
 @return Returns the number of days<br><br>
             
 <b>hoursToMilliseconds</b>(hours) -><br>
-Converts hours to milliseconds<br>        
+Converts hours to milliseconds<br>
 @param hours: The number of hours<br>
 @return Returns the number of milliseconds<br><br>
             
 <b>hoursToSeconds</b>(hours) -><br>
-Converts hours to seconds<br>  
+Converts hours to seconds<br>
 @param hours: The number of hours<br>
 @return Returns the number of seconds<br><br>
             
 <b>hoursToMinutes</b>(hours) -><br>
-Converts hours to minutes<br>  
+Converts hours to minutes<br>
 @param hours: The number of hours<br>
 @return Returns the number of minutes<br><br>
             
@@ -145,22 +145,22 @@ Converts hours to days<br>
 @return Returns the number of days<br><br>
             
 <b>daysToMilliseconds</b>(days) -><br>
-Converts days to milliseconds<br>        
+Converts days to milliseconds<br>
 @param days: The number of days<br>
 @return Returns the number of milliseconds<br><br>
             
 <b>daysToSeconds</b>(days) -><br>
-Converts days to seconds<br>   
+Converts days to seconds<br>
 @param days: The number of days<br>
 @return Returns the number of seconds<br><br>
 
 <b>daysToMinutes</b>(days) -><br>
-Converts days to minutes<br>   
+Converts days to minutes<br>
 @param days: The number of days<br>
 @return Returns the number of minutes<br><br>
             
 <b>daysToHours</b>(days) -><br>
-Converts days to hours<br> 
+Converts days to hours<br>
 @param days: The number of days<br>
 @return Returns the number of hours<br><br>
 

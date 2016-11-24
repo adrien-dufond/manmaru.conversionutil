@@ -15,7 +15,7 @@ Converts bits to kilobits<br>
 @return Returns the number of kilobits<br><br>
 
 <b>bitsToKilobytes</b>(bits) -><br>
-Converts bits to kilobytes<br>     
+Converts bits to kilobytes<br> 
 @param bits: The number of bits<br>
 @return Returns the number of kilobits<br><br>
 
@@ -30,7 +30,7 @@ Converts bytes to kilobits<br>
 @return Returns the number of kilobits<br><br>
 
 <b>bytesToKilobytes</b>(bytes) -><br>
-Converts bytes to kilobytes<br>    
+Converts bytes to kilobytes<br>
 @param bytes: The number of bytes<br>
 @return Returns the number of kilobytes<br><br>
 

@@ -1,6 +1,10 @@
 {
   "name": "manmaru.conversionutil",
   "main": "manmaru.conversionutil.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-dufond/manmaru.conversionutil.git"
+  },
   "authors": [
     "Adrien Dufond <adrien.dufond@gmail.com>"
   ],
